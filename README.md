@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm EUNJI, Front-End Developer from Korea.
+  🍓 Hi, I'm EUNJI, Front-End Developer from S.Korea. 🍓
   <br>
   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
@@ -20,6 +20,7 @@
    How to reach me: <a href="mailto: amy93317@gmail.com">amy93317@gmail.com</a>
 </p>
 
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 
 
@@ -41,5 +42,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amy-Eunji&layout=compact)](https://github.com/Amy-Eunji/github-readme-stats)
 
 <hr>
