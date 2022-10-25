@@ -17,7 +17,7 @@
   <br>
   ✨ I’m currently learning everything and will be a full stack developer
   <br>
-   How to reach me: <a href="mailto: amy93317@gmail.com">amy93317@gmail.com</a>
+   How to reach me: <a href="mailto: eun_ji_zz@naver.com">eun_ji_zz@naver.com</a>
 </p>
 <br>
 
