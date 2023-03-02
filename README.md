@@ -44,6 +44,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d2d2d2?style=flat-square&logo=jenkins&logoColor=black" />
   <img alt="gitea" src="https://img.shields.io/badge/-Gitea-5d9425?style=flat-square&logo=gitea&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-E32F3E?style=flat-square&logo=AWS&logoColor=white" />
 </p>
 <br>
 
