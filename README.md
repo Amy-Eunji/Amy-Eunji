@@ -15,7 +15,7 @@
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
-  ✨ I’m currently learning everything and will be a full stack developer
+  ✨ I’m currently learning everything and will be a great developer !
   <br>
    How to reach me: <a href="mailto: eun_ji_zz@naver.com">eun_ji_zz@naver.com</a>
 </p>
