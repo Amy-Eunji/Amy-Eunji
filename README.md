@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌈+Hello,+There!+👋;I+am+EUN+JI+LEE+🍀;Nice+to+meet+you!+🐥&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Martian+Mono&weight=500&size=30&duration=4000&pause=1000&color=113CB5&center=true&vCenter=true&width=600&lines=🖤🤍+Hi,+there+!+🖤🤍;I+am+Eun_Ji+🐥🍀;Nice+to+meet+U+!+💙">
   </a>
 </h1>
 
@@ -47,23 +47,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-E32F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
 </p>
 <br>
-
-<h2 align="center">💫 Stats 💫</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Amy-Eunji&theme=tokyonight_duo&border=61dafb&hide_border=true"
-      https://github-readme-streak-stats.herokuapp.com/demo/?user=codeCYJ&theme=holi-theme&hide_border=false&border_radius=4.5&locale=en&date_format=&properties=background
-      alt="Amy-Eunji" />
-    </a>
-    
-   <a href="https://github.com/codeCYJ/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Amy-Eunji&show_icons=true&theme=holi-theme&border_color=61dafb&hide_border=true" />
-    </a>
-    
-  </div>
-  <br><br><br><br><br><br><br><br><br>
 </p>
 
 
