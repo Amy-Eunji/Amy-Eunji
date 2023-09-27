@@ -8,14 +8,11 @@
 
 <br>
 <p align="center">
-  🍓 Hi, I'm EUNJI, Front-End Developer from S.Korea. 
+  💜 프론트엔드 개발자 이은지 입니다 💜
   <br>
   <br>
-  🌱 I am a growing developer. 
+  🍓 EUNJI.log : https://eun-jii.tistory.com/
   <br>
-  💻 I love writing code and learn anythings about it.
-  <br>
-  ✨ I’m currently learning everything and will be a great developer !
   <br>
    How to reach me: <a href="mailto: eun_ji_zz@naver.com">eun_ji_zz@naver.com</a>
 </p>
