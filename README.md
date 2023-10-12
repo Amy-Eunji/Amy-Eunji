@@ -11,10 +11,10 @@
   💜 프론트엔드 개발자 이은지 입니다 💜
   <br>
   <br>
-  🍓 EUNJI.log : https://eun-jii.tistory.com/
+  🍓 EUNJI.log : https://eun-jii.tistory.com/ 🍓
   <br>
   <br>
-   How to reach me: <a href="mailto: eun_ji_zz@naver.com">eun_ji_zz@naver.com</a>
+   🌿 How to reach me: <a href="mailto: eun_ji_zz@naver.com">eun_ji_zz@naver.com</a> 🌿
 </p>
 <br>
 
